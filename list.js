@@ -78,7 +78,7 @@
     },
     {
       "name": "20 Exchange Place",
-      "notes": "City Bank–Farmers Trust Building",
+      "notes": "City Bank–aFarmers Trust Building",
       "type": "private",
       "uuid": "ec3g3b63-4158-4a7e-b26c-02a82271d709",
       "areas": [
